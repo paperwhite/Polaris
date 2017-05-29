@@ -1,1 +1,3 @@
 # Polaris
+
+"We should never trust user input". There are many possible ways in which users can inject malicious code using input fields provided to him by a web application. Validating user input for all such cases is tedious and time consuming. So, we have developed a tool Polaris, which sanitizes user input on behalf of the developer to prevent XSS. Already available tools, that we have come across perform such checks at the run time. Whereas, in the case of Polaris, the developer just has to provide his PHP file and Polaris will create a new PHP file, which is more robust against XSS attacks. This new file can then be used directly by the developer.
