@@ -1,6 +1,6 @@
 AUTHORS: 
-PRAJAKTA SHINDE (ASU ID: 1209404609)
-SHIBANI SINGH (ASU ID: 1209404128)
+PRAJAKTA SHINDE
+SHIBANI SINGH
 
 There are 4 steps involved in the execution of Polaris.
 
